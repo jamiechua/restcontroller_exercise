@@ -1,0 +1,50 @@
+.thumbnail {
+    margin-right: 10px;
+    padding: 10px;
+    background-color: lightblue;
+}
+
+.thumbnail img {
+    height: 200px;
+    width: 100%;
+}
+
+.thumbnail .caption {
+    height: 120px;
+    overflow: hidden;
+    padding: 0px;
+}
+
+.banner {
+	margin: 5px 0px;
+	background-color: #f4b541;
+	color: white;
+	font-size: x-large;
+}
+
+.banner a {
+	float: right;
+	color: white;
+}
+
+.banner a:hover {
+	text-decoration: none;
+}
+
+.item {
+	margin: 15px 0px;
+}
+
+.remove {
+	width: 30px;
+	display: inline-block;
+}
+
+.quantity {
+	width: 30px;
+	display: inline-block;
+}
+
+.details {
+	display: inline-block;
+}
